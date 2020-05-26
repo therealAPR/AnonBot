@@ -1,4 +1,4 @@
-# IndianBot The UserBot 🇮🇳
+# AnonBot The UserBot 
 
 <p align="center">
 <img src="logo.jpg" alt="AnonBot">
@@ -6,7 +6,7 @@
 Best User Bot To Manage Your Telegram Account 😉
 ## Most PowerFul And Better And Secure !
 
-## By Team IndianBot 🇮🇳
+## By THEREALAPR
 
 For any query or want to know how it works join 👇👇
 ### <a href="https://t.me/therealApr"><img src="https://telegra.ph/file/8ef5ff8acca6c6e4c7dd7.jpg?logo=Telegram"></a>
@@ -24,8 +24,8 @@ For any query or want to know how it works join 👇👇
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/indianbhaiya/IndianBot
-cd Indianbot
+git clone https://github.com/therealAPR/AnonBot
+cd AnonBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
