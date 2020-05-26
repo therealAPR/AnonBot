@@ -1,7 +1,5 @@
 # AnonBot The UserBot 
 
-<p align="center">
-<img src="https://telegra.ph/AnonBot-05-26" alt="AnonBot">
 
 Best User Bot To Manage Your Telegram Account 😉
 ## Most PowerFul And Better And Secure !
